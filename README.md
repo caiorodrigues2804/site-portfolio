@@ -56,3 +56,9 @@ function showName(name){
     background-color: #FFF;
     color: #FF0000;
 }
+
+
+| Nome   | Caractere |
+| ---    | ---       |
+| Crase  | `         |
+| Barra  | \|        |
