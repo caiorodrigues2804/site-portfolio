@@ -19,3 +19,6 @@ Nesse curso você vai dominar **todo** git e **github** _do zero ao profissional
 [Instagram](https://www.instagram.com/)
 
 [Youtube](https://www.youtube.com/)
+
+>Este é um blockquote, usado para destacar alguma área.
+>Segundo área destacada
