@@ -29,7 +29,8 @@ Nesse curso você vai dominar **todo** git e **github** _do zero ao profissional
 >Este é um blockquote, usado para destacar alguma área.
 >Segundo área destacada
 
-**Comando para rodar o projeto:**
+ 
+### Comando para rodar o projeto: ###
 
 ```
 npm start
@@ -62,3 +63,5 @@ function showName(name){
 | ---    | ---       |
 | Crase  | `         |
 | Barra  | \|        |
+
+
