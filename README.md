@@ -6,8 +6,8 @@ Nesse curso você vai dominar **todo** git e **github** _do zero ao profissional
 
 **Ultimas updates:**
 - [x] Site responsivo 
-- [] Login com facebook.
-- [] Pagina sobre a empresa.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
 
 ## Módulos:
 * Começando com GIT
