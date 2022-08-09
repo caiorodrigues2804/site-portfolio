@@ -1,3 +1,5 @@
+![Logo do git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
 # Bem vindo ao curso Git e GitHub.
 Nesse curso você vai dominar **todo** git e **github** _do zero ao profissional._
 
@@ -5,14 +7,7 @@ Nesse curso você vai dominar **todo** git e **github** _do zero ao profissional
 Entendendo o que é **git**, apredendo sobre repositórios.
 Trabalhando com _**branches**_
 
-# Titulo <h1>
+### Rede Social:
+[Instagram](https://www.instagram.com/)
 
-## Titulo <h2>
-
-### Titulo <h3>
-
-#### Titulo <h4>
-
-##### Titulo <h5>
-
-##### Titulo <h6>
+[Youtube](https://www.youtube.com/)
