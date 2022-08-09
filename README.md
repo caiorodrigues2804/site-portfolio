@@ -9,6 +9,9 @@ Nesse curso você vai dominar **todo** git e **github** _do zero ao profissional
 * Git avançado
 * Usando github de forma profissional.
 
+1. Começando com GIT
+2. Apredendo sobre branches
+3. GIT avançado 
 
 ### Rede Social:
 [Instagram](https://www.instagram.com/)
